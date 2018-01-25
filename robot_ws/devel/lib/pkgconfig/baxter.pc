@@ -1,0 +1,8 @@
+prefix=/home/rflab/robot_ws/devel
+
+Name: baxter
+Description: Description of baxter
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rflab/robot_ws/devel/lib 
+Requires: 
